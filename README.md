@@ -16,11 +16,18 @@ GitHub Repo Creator (GHRC) is a simple, yet powerful tool that automates the pro
 
 ## Usage
 
-```fish
+```
+cp .env.example .env
+```
+
+modify the variables in the .env file as required
+
+
+```
 ./ghrc.fish --help
 ```
 
-## requirments
+## Requirments
 
  - python3
  - fish
