@@ -1,0 +1,6 @@
+[submodule "license-templates"]
+	path = license-templates
+	url = https://github.com/licenses/license-templates.git
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/github/gitignore.git
